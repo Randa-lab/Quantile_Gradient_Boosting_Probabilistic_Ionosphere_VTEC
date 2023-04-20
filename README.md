@@ -6,4 +6,4 @@ Quantile values of  β ={0.025, 0.975} are chosen for estimating the lower and u
 
 It has been shown that the quantile loss can model the data uncertainty. The Gradient Boosted tree is fast, performs well on structured input data, even on relatively small datasets, and has proven to be a powerful method in many data science competitions. For more information on Gradient Boosting for VTEC, see Natras, R.; Soja, B.; Schmidt, M. Ensemble Machine Learning of Random Forest, AdaBoost and XGBoost for Vertical Total Electron Content Forecasting. Remote Sens. 2022, 14, 3547. https://doi.org/10.3390/rs14153547.
 
-The notebook was created and the models trained by Randa Natras: randa.natras@hotmail.com; randa.natras@tum.de
+The notebook was created and the models developed by Randa Natras: randa.natras@hotmail.com; randa.natras@tum.de
