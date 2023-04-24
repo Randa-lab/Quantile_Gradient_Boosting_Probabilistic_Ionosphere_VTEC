@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+
 def feature_importance_plot (model, features, VTEC_point):
 
   importance = model.feature_importances_
