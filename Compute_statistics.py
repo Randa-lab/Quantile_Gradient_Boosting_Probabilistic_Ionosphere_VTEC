@@ -1,3 +1,7 @@
+import numpy as np
+import scipy.stats
+from sklearn import metrics
+
 #Calculation of statistics: RMS, Corr. and Confidence Intervals (CI)
 
 def compute_statistics (y_test, y_pred_median, y_pred_upper, y_pred_lower):
